@@ -16,3 +16,4 @@ GPT-2 (Generative Pretrained Transformer 2) is a transformer model that generate
 - Multi-layer transformer blocks
 - Training and inference loops
 - Text generation using top-k and temperature sampling
+- Fine Tune for Classification task (spam or not spam classifier)
